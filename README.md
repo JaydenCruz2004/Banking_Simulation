@@ -1,7 +1,8 @@
-# Description: This Java project implements a simple banking application that demonstrates the use of inheritance in
+# BANKING SIMULATION
+Description: This Java project implements a simple banking application that demonstrates the use of inheritance in
 object-oriented programming. The application features three types of accounts:
 Checking, Savings, and Credit Card, all derived from a common base class called Account.
-# Input: The user types commands such as
+Input: The user types commands such as
 1. To make a deposit into the Savings account:
 2. To make a withdrawal from the Savings account:
 3. To make a deposit into the Checking account:
@@ -12,5 +13,5 @@ Checking, Savings, and Credit Card, all derived from a common base class called 
 8.To display the Checking account details:
 9. To display the Credit Card account details:
 10. To exit the program
-# Output:The program will display the rolling balance of each of the
+Output:The program will display the rolling balance of each of the
 classes. */
