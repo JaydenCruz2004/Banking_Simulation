@@ -22,6 +22,8 @@ Each of these accounts is derived from a common base class called `Account`. The
 ---
 
 ## File Structure
+
+```
 .
 ├── src
 │   ├── Account.java       # Base class for all account types
@@ -30,8 +32,7 @@ Each of these accounts is derived from a common base class called `Account`. The
 │   ├── Savings.java       # Represents a savings account
 │   ├── RunBank.java       # Main class to run the banking simulation
 └── README.md             # Project documentation
-
----
+```
 
 ## How to Use
 The user interacts with the program by entering commands:
