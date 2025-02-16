@@ -56,11 +56,11 @@ The program will display a **rolling balance** for each account after every tran
 
 ---
 
-Future Improvements
-🔹 Implement file storage to save and load account balances
-🔹 Add a Graphical User Interface (GUI) for better usability
-🔹 Enhance security features like password protection
-🔹 Introduce interest calculations for savings accounts
+## Future Improvements
+🔹 Implement file storage to save and load account balances\
+🔹 Add a Graphical User Interface (GUI) for better usability\
+🔹 Enhance security features like password protection\
+🔹 Introduce interest calculations for savings accounts\
 
-##Author
-Developed by Jayden Cruz
+## Author
+**Developed** by Jayden Cruz
